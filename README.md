@@ -9,7 +9,7 @@
 
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Let's connect:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/eric-sandvick-51640571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-sandvick-51640571" height="20" width="30" /></a>
 </p>
