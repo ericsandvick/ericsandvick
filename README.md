@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Hello, I'm Eric 👋</h1>
 <h3 align="center">Full-stack developer from the USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsandvick&label=Profile%20views&color=0e75b6&style=flat" alt="ericsandvick" /> </p>
 
+<!--
 - 🔭 I’m currently working on [ScheduleStalker](https://shedulestalker.com)
 
 - 🌱 I’m currently learning **React.js**
+
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
