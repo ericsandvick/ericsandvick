@@ -16,6 +16,9 @@
 
 <h3 align="left">My Toolbox:</h3>
 <p align="left"> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<!--
+    
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="padding-right: 10px;"> 
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> 
     </a> 
@@ -52,6 +55,8 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="30" height="30"/> 
     </a> 
+
+    -->
 </p>
 
 <!--
