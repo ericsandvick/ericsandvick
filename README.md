@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Eric</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsandvick&label=Profile%20views&color=0e75b6&style=flat" alt="ericsandvick" width="40" height="40" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsandvick&label=Profile%20views&color=0e75b6&style=flat" alt="ericsandvick" /> </p>
 
 <!--
 - 🔭 I’m currently working on [ScheduleStalker](https://shedulestalker.com)
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eric-sandvick-51640571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-sandvick-51640571" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eric-sandvick-51640571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-sandvick-51640571" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">My Toolbox:</h3>
