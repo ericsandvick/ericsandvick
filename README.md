@@ -1,7 +1,6 @@
-<h1 align="center">Hello, I'm Eric 👋</h1>
-<h3 align="center">Full-stack developer from the USA.</h3>
+<h1 align="center">👋 Hello, I'm Eric</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsandvick&label=Profile%20views&color=0e75b6&style=flat" alt="ericsandvick" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsandvick&label=Profile%20views&color=0e75b6&style=flat" alt="ericsandvick" width="40" height="40" /> </p>
 
 <!--
 - 🔭 I’m currently working on [ScheduleStalker](https://shedulestalker.com)
