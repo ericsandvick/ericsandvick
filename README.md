@@ -16,10 +16,10 @@
 
 <h3 align="left">My Toolbox:</h3>
 <p align="left"> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="padding-right: 10px;"> 
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> 
     </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="padding-right: 10px;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> 
     </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
