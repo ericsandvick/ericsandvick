@@ -6,14 +6,13 @@
 
 Hey there 👋
 
-I’m Eric, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Eric, a senior full-stack engineer with 20+ years of experience delivering high-quality software solutions. I leverage my knowledge and experience to build interactive and user-focused website designs to scale.  
 
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Cloud-Azure_Functions-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure_Data_Factory-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure_Storage-informational?style=flat&logo=AzureStorage&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
