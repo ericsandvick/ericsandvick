@@ -8,6 +8,7 @@ Hey there 👋
 
 I’m Eric, a senior full-stack engineer with 20+ years of experience delivering high-quality software solutions. I leverage my knowledge and experience to build interactive and user-focused website designs to scale.  
 
+<br>
 
 ## 💼 Skills
 
