@@ -8,6 +8,7 @@ Hey there 👋
 
 I’m Eric, a senior full-stack engineer with 20+ years of experience delivering high-quality software solutions. I leverage my knowledge and experience to build interactive and user-focused website designs to scale.  
 
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Cloud-Azure_Functions-informational?style=flat&logo=Java&logoColor=white&color=4078c0)
