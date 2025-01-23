@@ -10,6 +10,9 @@ I’m Eric, a senior full-stack engineer, creative coder and self-proclaimed des
 
 ## 💼 Skills
 
+![](https://img.shields.io/badge/Cloud-Azure_Functions-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-Azure_Data_Factory-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
