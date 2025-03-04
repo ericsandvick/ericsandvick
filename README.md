@@ -30,6 +30,7 @@ I’m Eric, a senior full-stack engineer with 20+ years of experience delivering
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4078c0)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=NoSQL&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=SQLServer&logoColor=white&color=4078c0)
